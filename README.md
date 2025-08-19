@@ -40,6 +40,9 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with experience in 
   </a>
 </p>
 
+## 📊 My Coding Profiles
+
+- 🟢 [HackerRank Profile](https://www.hackerrank.com/profile/FaneDev)
 ---
 
 ## 📫 Get in Touch
